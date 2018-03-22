@@ -17,6 +17,6 @@ Online round ranking results:
 
 Extended round ranking results:
  - GranadaGDGHUB: 2º pos.
- - Spain: 112º
+ - Spain: 112º pos.
  - World: 1706º pos.
 ***
